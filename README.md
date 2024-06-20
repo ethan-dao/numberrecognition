@@ -5,3 +5,6 @@ Using the MNIST handwriting dataset in Tensorflow, I created a feed forward neur
 
 # Training and testing the neural network
 Now, I trained this model for 5 epochs with early stopping as a callback so that it the training would stop when there was a decrease in accuracy. Next, I tested the model by evaluating the model on the testing data, and received an accuracy of around 96% after 5 epochs!
+
+# Next steps
+Next, I want to try and implement this neural network on Tensorflow from scratch. This is a basic feedforward neural network, and after watching some videos about the math behind a neural network, I think it would be fun to try this as an experiment and to also deepen my knowledge of deep learning.
